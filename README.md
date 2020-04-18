@@ -5,7 +5,7 @@ The above code implments the following concepts:
 1) Forward and backward algorithm
 2) Sequence Probability
 3) Posterior Probability
-4) Likelihood of two consecutive states at a give time
+4) Likelihood of two consecutive states at a given time
 5) Viterbi algorithm
 6) Speech Tagger
 
